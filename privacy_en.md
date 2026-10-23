@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 21 October 2026 · BookTap version 1.1
+Last updated: 22 October 2026 · BookTap version 1.1
 
 ## Short answer
 
@@ -86,14 +86,16 @@ example, where people stop in the introduction, whether a feature is
 used at all, whether a screen fails), so that we can fix and improve
 the App. We do not use these events to build a picture of you.
 
-What is sent: 59 kinds of event from a closed list fixed inside the
+What is sent: 62 kinds of event from a closed list fixed inside the
 App's code. Nothing outside this list is sent, and the list can only
 grow in an App update together with this policy. The events fall into
 these groups:
 
-- Getting started: steps of the introduction, the first opening of the
-  App on a given day (at most once a day), the result of the
-  notification permission request and the screen it was asked from,
+- Getting started: steps of the introduction, the pages of the short
+  "what's new" tour shown once after an update and whether it was
+  finished or skipped, the first opening of the App on a given day (at
+  most once a day), the result of the notification permission request
+  and the screen it was asked from,
   the level test being started and finished, and the language pair
   being changed in settings.
 - Reading and words: a book being opened, progressing, finished or
@@ -129,7 +131,8 @@ these groups:
 - Subscription screen: the screen being shown or closed and where it
   was opened from, which version of it was shown, a plan being
   selected, a purchase or free trial being started, completed or
-  failing, a restore attempt and its result, and technical failures
+  failing, the thank-you screen shown after a purchase or free trial
+  starts, a restore attempt and its result, and technical failures
   (such as prices not loading).
 
 Each event carries only values from closed sets: a book identifier, a
